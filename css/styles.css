@@ -1,9 +1,14 @@
 /*This file is for your custom css.  All yours*/
 @font-face{
-	font-family: 'alex-brush';
-	src: url('../fonts/AlexBrush-Regular.ttf') format('truetype');
+	font-family: 'journal';
+	src: url('../fonts/journal.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'veteran-typewriter';
+	src: url('../fonts/veteran_typewriter.ttf') format('truetype');
 }
 
 p {
-  font-family: 'alex-brush', serif;
+  font-family: 'journal', serif;
 }
