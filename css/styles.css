@@ -1,0 +1,9 @@
+/*This file is for your custom css.  All yours*/
+@font-face{
+	font-family: 'alex-brush';
+	src: url('../fonts/AlexBrush-Regular.ttf') format('truetype');
+}
+
+p {
+  font-family: 'alex-brush', serif;
+}
